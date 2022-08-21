@@ -1,3 +1,7 @@
 {
-    "name":"patrikgrinsvall/personal-package-template"
+    "name":"patrikgrinsvall/personal-package-template",
+    "require":{
+    
+    },
+    "require-dev":{}
 }
